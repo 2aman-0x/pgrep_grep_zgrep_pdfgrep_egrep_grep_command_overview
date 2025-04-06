@@ -1,6 +1,6 @@
 source:[here](https://youtu.be/gkQHAy6Zdrg?si=6ueb8xOjgPP6BlbM)
 
-### <i>  pgrep, fgrep, zgrep, pdfgrep, egrep, grep command overview <i/> ###
+### pgrep, fgrep, zgrep, pdfgrep, egrep, grep command overview <i/> ###
 
 __```- grep "keyword" file.txt```__  
 __```- egrep "keyword1|keyword2|keyword3" file.tx```__ (For searching multiple keyword in file.)  
